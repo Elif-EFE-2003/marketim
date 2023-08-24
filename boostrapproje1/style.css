@@ -1,0 +1,24 @@
+.header {
+    display: flex;
+    word-spacing: 20px;
+}
+.red{
+    color:crimson
+    
+}
+.black{
+    color:black
+}
+.grey{
+   color:dimgray
+}
+.orta{
+    text-align: center;
+    margin-top: 50px;
+}
+.ustBosluk{
+    margin-top: 50px;
+}
+.blue{
+    color: rgb(28, 67, 157);
+}
